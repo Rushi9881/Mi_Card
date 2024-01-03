@@ -50,4 +50,4 @@ flutter run
 Feel free to contribute to make improvements or add new features. Just fork the repository, create a branch, and submit a pull request.
 
 ## Acknowledgments
-*Thanks to the Flutter and Dart communities for providing excellent tools and documentation.
+* Thanks to the Flutter and Dart communities for providing excellent tools and documentation.
